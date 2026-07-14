@@ -1,0 +1,8 @@
+- id: textsum-diff
+  name: TextSum diff summary
+  description: Summarize staged changes using textsum
+  entry: textsum
+  language: python
+  args: ["-l", "3", "--mode", "extractive"]
+  pass_filenames: false
+  verbose: true
