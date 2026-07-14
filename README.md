@@ -199,4 +199,4 @@ Styled HTML page with horizontal confidence bars beside each sentence.
 
 ## License
 
-MIT License — see [LICENSE](LICENSE) for details.
+Apache License 2.0 — see [LICENSE](LICENSE) for details.
